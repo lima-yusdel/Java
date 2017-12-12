@@ -1,6 +1,6 @@
 import java.util.Random;
 /**
- * @author
+ * @author Yusdel Lima Lorenzo
  */
 public class GridClass {
 
