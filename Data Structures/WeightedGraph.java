@@ -1,8 +1,6 @@
 package lab09graphf16;
 
 /**
- * a minimal number of stubs have been provided 
- * to get the starting point file to run
  * @author Yusdel Lima
  */
 public class WeightedGraph 
