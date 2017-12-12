@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author
+ * @author Yusdel Lima Lorenzo
  */
 public class GridDriver {
 
