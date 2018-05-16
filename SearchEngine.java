@@ -11,7 +11,7 @@ import java.util.*;
  * By Yusdel Lima Lorenzo
  *
  */
-public class LittleSearchEngine {
+public class SearchEngine {
 	
 	/**
 	 * This is a hash table of all keywords. The key is the actual keyword, and the associated value is
